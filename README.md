@@ -59,5 +59,3 @@ The system includes built-in logging to track the extraction process in real-tim
 ---
 
 *Note: This tool is intended for educational and market analysis purposes, adhering to ethical data extraction standards.*
-
-```
