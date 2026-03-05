@@ -1,0 +1,15 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Local configuration & Environment
+.env
+venv/
+.idea/
+.vscode/
+
+# Output files (We don't want to upload scrape results)
+*.csv
+!target_regions.csv
+!demo_data_structure.csv
+*.log
