@@ -54,7 +54,7 @@ python market_data_extractor.py
 
 ## 📊 Data Integrity
 
-The system includes built-in logging to track the extraction process in real-time, ensuring transparency and aiding in rapid troubleshooting during large-scale data operations.
+The system includes built-in logging to track the extraction process in real-time, ensuring transparency and aiding in rapid troubleshooting during large-scale data operations
 
 ---
 
