@@ -1,4 +1,4 @@
-# French Real Estate Market Analytics Tool
+# French Real Estate Market Analytics Tool 
 
 ## 🚀 Overview
 This repository hosts a robust **Data Extraction Pipeline** engineered to retrieve and structure property market data from regional French directories. The solution is designed for **high-reliability data aggregation**, featuring explicit wait strategies, modular exception handling, and automated CSV persistence for seamless CRM integration.
